@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Aug  5 11:26:51 2021
-
-@author: pshkr
-"""
 import numpy as np
 import optunity
 import optunity.metrics
